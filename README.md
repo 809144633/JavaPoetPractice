@@ -1,0 +1,2 @@
+# JavaPoetPractice
+JavaPoet练习工程，通过JavaPoet模仿ButterKnife简单实现控件绑定
